@@ -173,7 +173,7 @@ Permite configurar el porcentaje de IVA y descuento.
 
 ![Loggin](https://github.com/SamuelPerez098/Proyecto-m-vil-android/blob/main/WhatsApp%20Image%202025-06-13%20at%2011.00.54%20AM.jpeg?raw=true)
 
-![Activity](https://private-user-images.githubusercontent.com/206933327/454961900-94264170-f4b7-4470-8200-83110930873c.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk4MzUxNDgsIm5iZiI6MTc0OTgzNDg0OCwicGF0aCI6Ii8yMDY5MzMzMjcvNDU0OTYxOTAwLTk0MjY0MTcwLWY0YjctNDQ3MC04MjAwLTgzMTEwOTMwODczYy5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDYxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA2MTNUMTcxNDA4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YzI2ZGM3MDI2NDcwYTE0ZTdmNDM0ZGZmYmVmZjVkNWFmMmNhNDVkZjBmMWQxY2RjZTFmZWY5NjE4MjM3NDE4OCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.qIjEme1jpRKYm6elAGlDvQDuIDnPRq86a3Vyep3tLHE)
+![Activity](https://github.com/SamuelPerez098/Proyecto-m-vil-android/blob/main/WhatsApp%20Image%202025-06-13%20at%2011.01.20%20AM.jpeg?raw=true)
 
 
 un ejemplo de la Estructura interna de uno de los ejeccicios seria : 
@@ -200,7 +200,7 @@ Esta actividad simula el uso de un `Spinner` numérico mediante un `NumberPicker
 
 Esta actividad demuestra cómo personalizar un `NumberPicker` en Android y cómo manejar su evento `setOnValueChangedListener`.
 
-![Ejercicio 2](https://private-user-images.githubusercontent.com/206933327/454961899-cc8733be-da50-40e6-95ad-e863282b9281.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk4MzQ4ODAsIm5iZiI6MTc0OTgzNDU4MCwicGF0aCI6Ii8yMDY5MzMzMjcvNDU0OTYxODk5LWNjODczM2JlLWRhNTAtNDBlNi05NWFkLWU4NjMyODJiOTI4MS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDYxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA2MTNUMTcwOTQwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YWUwZTk5ODA5Nzc4YjNkMTBjOTk5ZjVlZDMzNjNiOGZhYTA5NGQxNWI0OTJlNGRjYjE1ZmQxZDY2YWU5ZWY4YiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.yOaQvZrs9Y6qCpeFJzFuiItdAl_fmEb5jL5jJ3kFBdc)
+![Ejercicio 2](https://github.com/SamuelPerez098/Proyecto-m-vil-android/blob/main/WhatsApp%20Image%202025-06-13%20at%2011.01.38%20AM.jpeg?raw=true)
 
 
 
